@@ -1,0 +1,24 @@
+{
+  "name": "datastore-studies",
+  "version": "1.0.0",
+  "description": "Studies of Google Cloud Datastore implementation on Node JS",
+  "repository": "git@github.com:DawTaylor/restify-jwt-studies.git",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "consign": "^0.1.4",
+    "google-cloud": "^0.51.1",
+    "jwt-simple": "^0.5.1",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "numeral": "^2.0.6",
+    "passport": "^0.3.2",
+    "passport-jwt": "^2.2.1",
+    "restify": "^4.3.0"
+  }
+}
